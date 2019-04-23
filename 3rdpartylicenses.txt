@@ -1,3 +1,6 @@
+highcharts
+https://www.highcharts.com/license
+
 tslib
 Apache-2.0
 Apache License
@@ -346,6 +349,9 @@ MIT
 @angular/material/tooltip
 
 @angular/material/dialog
+
+angular-highcharts
+MIT
 
 zone.js
 MIT
